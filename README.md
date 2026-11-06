@@ -1,7 +1,7 @@
 <h2 align="left">WakaTime Stats (since Feb 2, 2026)</h2>
 
 <p align="center">
-  [![mbirou's 42 stats](https://badge.mediaplus.ma/darkblue/mbirou)](https://github.com/oakoudad/badge42)
+  [[mbirou's 42 stats](https://badge.mediaplus.ma/darkblue/mbirou)](https://github.com/oakoudad/badge42)
 </p>
 
 
