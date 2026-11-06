@@ -1,4 +1,4 @@
-student at [42 Angouleme](https://42angouleme.fr/) - [profile](https://profile.intra.42.fr/users/mbirou)
+student at [42 Angouleme](https://42angouleme.fr/) - [profile](https://profile.intra.42.fr/users/mbirou) </br>
 Currently studying to obtain a [RNCP 7 "Expert en architecture informatique"](https://www.francecompetences.fr/recherche/rncp/39774)
 
 
