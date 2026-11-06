@@ -1,10 +1,8 @@
-<h2 align="left">WakaTime Stats (since Feb 2, 2026)</h2>
+student at [42 Angouleme](https://42angouleme.fr/) - [profile](https://profile.intra.42.fr/users/mbirou)
+Currently studying to obtain a [RNCP 7 "Expert en architecture informatique"](https://www.francecompetences.fr/recherche/rncp/39774)
 
+
+<h2 align="left">WakaTime Stats (since Jan 24, 2025)</h2>
 <p align="center">
-  [[mbirou's 42 stats](https://badge.mediaplus.ma/darkblue/mbirou)](https://github.com/oakoudad/badge42)
-</p>
-
-
-<p align="center">
-  <img align="center" src="https://vercel-ten-kappa-62.vercel.app/api/wakatime?username=@manuteab&theme=dark&layout=compact&langs_count=6&border_radius=25&hide_title=true" alt="Manutea wakatime stats" />
+  <img align="center" src="https://vercel-ten-kappa-62.vercel.app/api/wakatime?username=@manuteab&theme=transparent&layout=compact&langs_count=16&border_radius=25&hide_title=true&hide_border=true&hide=Other" alt="manuteab wakatime stats" />
 </p>
